@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Atqiya Anjum</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h1 align="center">Hiii 👋, I'm Atqiya Anjum</h1>
+<h3 align="center">A Passionate Programmer From Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atqiya02&label=Profile%20views&color=0e75b6&style=flat" alt="atqiya02" /> </p>
 
-- 🔭 I’m currently working on **Java Project**
+- 🔭 I’m currently working on my **Java Project**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 currently learning **MySQL**
 
 - 💬 Ask me about **C , C++ , Java**
 
-- 📫 How to reach me **anjumislam4939@gmail.com**
+- 📫 Reach me **anjumislam4939@gmail.com**
 
-- ⚡ Fact **I lost in the matrix**
+- ⚡ **I lost in the matrix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +36,8 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atqiya02&show_icons=true&locale=en&layout=compact" alt="atqiya02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atqiya02&show_icons=true&locale=en&layout=compact&theme=algolia" alt="atqiya02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atqiya02&show_icons=true&locale=en" alt="atqiya02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atqiya02&show_icons=true&locale=en&theme=algolia" alt="atqiya02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atqiya02&" alt="atqiya02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atqiya02&theme=algolia" alt="atqiya02" /></p>
